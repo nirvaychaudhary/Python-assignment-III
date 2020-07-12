@@ -1,0 +1,2 @@
+nirvay,nirvay@gmail.com,1234567890,Python,20000.0,1,0.0
+nirmal,nirmal@gmail.com,9874563210,Laravel,20000.0,2,10000.0

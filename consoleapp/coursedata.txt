@@ -1,0 +1,4 @@
+1,Python,3 months,20000
+2,Laravel,3 months,20000
+3,Data Science,3 months,20000
+4,Java Script,3 months,20000
